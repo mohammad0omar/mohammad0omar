@@ -52,7 +52,6 @@ I’m a **Technology Executive** with over **9 years of experience** building, s
 
 💡 I believe in technology that creates **lasting business value**.  
 🌍 I’m passionate about **AI-driven operations, cloud economics, and scaling startups to enterprises**.  
-📩 Reach out — I’d love to explore opportunities to **build the future together**.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad0omar)  
 [![Blog](https://img.shields.io/badge/Blog-Visit-ff9900?logo=rss)](https://blog.mohammad-omar.com)  
